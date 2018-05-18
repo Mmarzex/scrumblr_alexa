@@ -1,0 +1,19 @@
+{
+    "name": "scrumblr_alexa_skill",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "alexa-sdk": "^1.0.25",
+        "es6-promise": "^4.2.4",
+        "isomorphic-fetch": "^2.2.1",
+        "jest": "^22.4.4",
+        "uuidv4": "^1.0.0"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "description": "A skill to interact with scrumblr board",
+    "main": "index.js",
+    "author": "Manny Huerta",
+    "license": "MIT"
+}
