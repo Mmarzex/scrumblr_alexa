@@ -49,7 +49,7 @@ const event = {
             "slots": {
                 "cardText": {
                     "name": "cardText",
-                    "value": "new feature drop activity",
+                    "value": "alexa passed the test",
                     "confirmationStatus": "NONE"
                 }
             }
